@@ -1,4 +1,4 @@
-package org.example;
+package com.ronituohino.palindrome;
 
 public class PalindromeChecker {
     private final String input;

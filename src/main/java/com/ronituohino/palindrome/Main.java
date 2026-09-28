@@ -1,4 +1,4 @@
-package org.example;
+package com.ronituohino.palindrome;
 
 import java.util.Scanner;
 

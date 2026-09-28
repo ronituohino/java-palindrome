@@ -1,5 +1,5 @@
 import org.junit.jupiter.api.Test;
-import org.example.PalindromeChecker;
+import com.ronituohino.palindrome.PalindromeChecker;
 import org.junit.jupiter.api.parallel.Execution;
 import org.junit.jupiter.api.parallel.ExecutionMode;
 
